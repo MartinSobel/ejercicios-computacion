@@ -1,2 +1,8 @@
 # Ejercicios  Computación / Estructura de Datos y Algoritmos
-# Comisión: 335 - (PROCOPIO, Adela Irma)
+
+## Imprimir en consola con variables
+```python
+nombre = 'Martin'
+print('Hola mundo', nombre)
+print(f'Hola mundo {nombre}')
+```
